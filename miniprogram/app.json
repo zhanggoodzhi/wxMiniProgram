@@ -1,0 +1,15 @@
+{
+  "cloud": true,
+  "pages": [
+    "pages/index/index",
+    "pages/calForm/calculate",
+    "pages/milk/milk"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "东北助手",
+    "navigationBarTextStyle": "black"
+  }
+}
